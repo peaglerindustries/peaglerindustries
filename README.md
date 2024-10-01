@@ -1,10 +1,4 @@
-Hello! I'm Zach Peagler, a researcher and creative from Atlanta, Georgia
-- Pronouns: he/him
-- I’m interested in projects that make the world a better place and are interesting or fun
--   I especially enjoy data science and discovering new insights about our world
-- I’m currently learning Python, R, SQL, and C++
-- I’m looking to gain experience contributing to open source projects
-
+A company focused on web development and other garbage
 - Contact me: peaglerindustries@gmail.com
 
 
